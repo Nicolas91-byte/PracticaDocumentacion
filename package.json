@@ -9,6 +9,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@daybrush/jsdoc": "^0.4.7",
     "docdash": "^2.0.2"
+  },
+  "dependencies": {
+    "daybrush-jsdoc-template": "^1.10.0",
+    "jsdoc": "^4.0.2"
   }
 }

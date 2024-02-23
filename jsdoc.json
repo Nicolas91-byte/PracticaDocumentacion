@@ -1,9 +1,9 @@
 {
   "opts": {
-    "template": "node_modules/docdash"
+    "template": "node_modules/daybrush-jsdoc-template"
   },
   "source": {
-    "include": ["./node_modules"], 
+    "include": ["./js"],
     "includePattern": ".+\\.js(doc|x)?$",
     "excludePattern": "(^|\\/|\\\\)_"
   },
